@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import "./productsGrid.css"
 import { Product } from '../features/products'
 import CartMenu from './cart'
