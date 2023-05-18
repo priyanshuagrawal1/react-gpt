@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import './Homepage.css';
+import './homepage.css';
 import { useDispatch } from 'react-redux';
 import PhotosGrid from './productsGrid';
 import { useSelector } from 'react-redux';
